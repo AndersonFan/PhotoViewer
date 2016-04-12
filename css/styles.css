@@ -1,0 +1,26 @@
+body{
+
+	background-image:url("../images/344223.jpg");
+	text-align: center;
+
+	font-family: 'emilio', cursive;
+	color: #ffff80;
+}
+
+
+h1{
+	font-size: 50pt;
+	margin-bottom: 0;
+	-webkit-text-stroke: 0.05px white;
+
+}
+
+h2{
+
+	margin-top: 0;
+}
+
+img{
+	width: 70%;
+	height: 70%
+}
